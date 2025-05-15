@@ -1,6 +1,6 @@
 breast cancer radiomics project
 
-## Subheader
+## Pipeline
 
 testing
 
